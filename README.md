@@ -4,4 +4,8 @@ I absolutly love development and coding, I'm always working on some sort of proj
 
 ## Here's something I'm working on now
 
-https://github.com/bsmrdel101/Tabletop-of-Many-Things
+A virtual table top for Dungeons and Dragons, made with React, typescript, Node, Socket.io, PostgreSQL.
+
+Repo: [Tabletop of Many Things](https://github.com/bsmrdel101/Tabletop-of-Many-Things)
+
+![Screenshot 2023-02-13 at 1 08 27 PM](https://user-images.githubusercontent.com/43832671/218551245-e80789d2-2c6d-418f-8425-490de54ad8a3.png)
