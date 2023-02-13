@@ -8,9 +8,10 @@ Game development is also a hobby of mine and I frequently take part in game jams
 A virtual table top for Dungeons and Dragons, made with React, typescript, Node, Socket.io, PostgreSQL.
 It's multiplayer and allows you to prepare and run a game of D&D with your friends.
 
-Repo: [Tabletop of Many Things](https://github.com/bsmrdel101/Tabletop-of-Many-Things)
-
-![Screenshot 2023-02-13 at 1 29 27 PM](https://user-images.githubusercontent.com/43832671/218555309-51ad226c-ae20-4aa0-8da5-73fd486d1ff5.png)
+**Repo:** [Tabletop of Many Things](https://github.com/bsmrdel101/Tabletop-of-Many-Things)
+<!-- 
+![Screenshot](https://user-images.githubusercontent.com/43832671/218555309-51ad226c-ae20-4aa0-8da5-73fd486d1ff5.png) -->
+<img src="https://user-images.githubusercontent.com/43832671/218555309-51ad226c-ae20-4aa0-8da5-73fd486d1ff5.png" alt="Screenshot" width="770" height="500" />
 
 ## What I want to learn in the future
 
