@@ -15,6 +15,8 @@ It's multiplayer and allows you to prepare and run a game of D&D with your frien
 
 ## What I want to learn in the future
 
-- WebGL/OpenGL
+- WebGL
+- OpenGL
+- Svelte
 - Rust
 - Go
