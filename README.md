@@ -1,6 +1,6 @@
 # About me
 
-I absolutly love development and coding! I'm always working on some sort of project to improve my skills, and for fun.
+I absolutly love coding! I'm always working on some sort of project to improve my skills, and for fun.
 Game development is also a hobby of mine and I frequently take part in game jams, using Unity and C#.
 
 [Personal site](https://bennett-smrdel.com)
