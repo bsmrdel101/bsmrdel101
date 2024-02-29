@@ -14,11 +14,3 @@ It's multiplayer and allows you to prepare and run a game of D&D with your frien
 <!-- 
 ![Screenshot](https://user-images.githubusercontent.com/43832671/218555309-51ad226c-ae20-4aa0-8da5-73fd486d1ff5.png) -->
 <img src="https://user-images.githubusercontent.com/43832671/218555309-51ad226c-ae20-4aa0-8da5-73fd486d1ff5.png" alt="Screenshot" width="770" height="500" />
-
-## What I want to learn in the future
-
-- WebGL
-- OpenGL
-- Svelte
-- Rust
-- Go
