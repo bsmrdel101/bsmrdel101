@@ -5,7 +5,7 @@ Game development is also a hobby of mine and I frequently take part in game jams
 
 [Personal site](https://bennett-smrdel.netlify.app)
 
-## Here's something I'm working on now
+## Here's something I'm working on
 
 A virtual tabletop for Dungeons and Dragons made with React, TypeScript, Node, Socket.io, and PostgreSQL.
 It's multiplayer and allows you to prepare and run a game of D&D with your friends.
