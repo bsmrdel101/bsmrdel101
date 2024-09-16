@@ -3,8 +3,6 @@
 I love coding! I'm always working on some sort of project to improve my skills, and for fun.
 Game development is also a hobby of mine and I frequently take part in game jams.
 
-[Personal site](https://bennett-smrdel.netlify.app)
-
 ## Here's something I'm working on
 
 A virtual tabletop for Dungeons and Dragons made with React, TypeScript, Node, Socket.io, and PostgreSQL.
