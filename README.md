@@ -5,7 +5,7 @@ I frequently do game development and participate in game jams.
 
 ## Here's something I'm working on
 
-A virtual tabletop for Dungeons and Dragons made with React, TypeScript, Node, Socket.io, and PostgreSQL.
+A virtual tabletop for Dungeons and Dragons.
 It's multiplayer and allows you to prepare and run a game of D&D with your friends.
 
 **Repo:** [Tabletop of Many Things](https://github.com/bsmrdel101/Tabletop-of-Many-Things)
